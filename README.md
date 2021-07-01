@@ -2,7 +2,7 @@
 
 
 - Technological Graduation - Systems Analysis and Development
-- Seeking an Opportunity for developer
+- Seeking an Opportunity for Developer
 
 
 # Tools and GitHub Stats
