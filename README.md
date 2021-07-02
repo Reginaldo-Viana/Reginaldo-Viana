@@ -1,8 +1,8 @@
 # Welcome!
 
 
-- Technological Graduation - Systems Analysis and Development
-- Seeking an Opportunity for Developer
+##### - Technological Graduation - Systems Analysis and Development
+##### - Seeking an Opportunity for Developer
 
 
 # Tools and GitHub Stats
