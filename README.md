@@ -5,10 +5,6 @@
 
 
 # Tools and GitHub Stats
-
- <div>
-  <img alt = "Chris-Ts" height = "80" width = "80" src =  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-  </div>
  
  <div>  
   <img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
