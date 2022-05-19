@@ -26,7 +26,7 @@
  
  <div>  
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"width="40" height="40">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"width="40" height="40">
+ <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width="40" height="40">
  </div>
  
 <div align="left">  
