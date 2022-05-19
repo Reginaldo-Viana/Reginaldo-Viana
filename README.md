@@ -26,9 +26,9 @@
  
  <div>  
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"width="40" height="40">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width="40" height="40">
- ![Eclipse]     (https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c 697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
+ <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width="40" height="40"> 
  </div>
+ ![Eclipse]     (https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c 697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
  
 <div align="left">  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginaldo-Viana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=50&theme=tokyonight"/>	
