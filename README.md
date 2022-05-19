@@ -25,7 +25,7 @@
  </div>
  
 <div align="left">  
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginaldo-Viana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=16&theme=tokyonight"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginaldo-Viana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=50&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Reginaldo-Viana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div>	
 
